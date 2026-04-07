@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naveen Reddy Sama 👋</h1>
+<h1 align="center">Hi, I'm Naveen Sama 👋</h1>
 <h3 align="center">AI/ML Engineer · San Jose, CA</h3>
 
 <p align="center">
