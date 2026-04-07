@@ -80,11 +80,10 @@ M.S. in Big Data Analytics from **San Diego State University**, passionate about
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenReddy29&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenReddy29&layout=compact&theme=dark&hide_border=true" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenReddy29&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
