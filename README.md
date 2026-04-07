@@ -17,7 +17,7 @@
 
 ## About Me
 
-M.S. in Big Data Analytics from **San Diego State University** (May 2024), passionate about building intelligent systems that solve real-world problems. I specialize in designing end-to-end ML pipelines, LLM-powered applications, and scalable AI solutions.
+M.S. in Big Data Analytics from **San Diego State University**, passionate about building intelligent systems that solve real-world problems. I specialize in designing end-to-end ML pipelines, LLM-powered applications, and scalable AI solutions.
 
 - 🔭 Currently building: AI agents, RAG pipelines, and LLM fine-tuning projects
 - 🎓 M.S. Big Data Analytics — San Diego State University, 2024
