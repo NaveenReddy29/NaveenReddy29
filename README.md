@@ -23,7 +23,7 @@ M.S. in Big Data Analytics from **San Diego State University**, passionate about
 - 🎓 M.S. Big Data Analytics — San Diego State University, 2024
 - 📍 San Jose, CA
 - 💬 Ask me about: Machine Learning, Deep Learning, LLMs, RAG, MLOps
-- 📫 Reach me at: naveen.sama29@gmail.com
+- 📫 Reach me at: naveen.sama0797@gmail.com
 
 ---
 
