@@ -8,7 +8,7 @@
   <a href="mailto:naveen.sama29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://naveenreddy29.github.io" target="_blank">
+  <a href="https://naveen-sama.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -120,19 +120,19 @@ AI/ML Engineer with **6+ years** building production LLM applications, ML pipeli
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🤖 LangGraph Research Agent](https://github.com/NaveenReddy29/langgraph-research-agent) | Autonomous multi-step research agent with memory and tool use | LangGraph, OpenAI, Python |
-| [🔍 RAG Document QA System](https://github.com/NaveenReddy29/rag-document-qa) | End-to-end retrieval-augmented generation pipeline for document Q&A | LangChain, ChromaDB, FastAPI |
-| [📈 LLM Time Series Forecaster](https://github.com/NaveenReddy29/llm-time-series-forecaster) | Electricity load forecasting comparing LLM prompting strategies vs classical ML | OpenAI, Prophet, scikit-learn |
-| [⚾ MLB Win Predictor](https://github.com/NaveenReddy29/baseball-win-predictor) | Machine learning model predicting MLB team win probability using player stats | Python, scikit-learn, Pandas |
-| [🏥 Healthcare ML Suite](https://github.com/NaveenReddy29/machine-learning-projects) | Predictive models for diabetes, heart disease, and cancer detection | scikit-learn, Jupyter |
-| [🚀 MLOps Pipeline](https://github.com/NaveenReddy29/mlops-pipeline) | End-to-end ML pipeline with experiment tracking, model registry, and deployment | MLflow, Docker, FastAPI, AWS |
+| [🤖 LangGraph Research Agent](https://github.com/naveen-sama/langgraph-research-agent) | Autonomous multi-step research agent with memory and tool use | LangGraph, OpenAI, Python |
+| [🔍 RAG Document QA System](https://github.com/naveen-sama/rag-document-qa) | End-to-end retrieval-augmented generation pipeline for document Q&A | LangChain, ChromaDB, FastAPI |
+| [📈 LLM Time Series Forecaster](https://github.com/naveen-sama/llm-time-series-forecaster) | Electricity load forecasting comparing LLM prompting strategies vs classical ML | OpenAI, Prophet, scikit-learn |
+| [⚾ MLB Win Predictor](https://github.com/naveen-sama/baseball-win-predictor) | Machine learning model predicting MLB team win probability using player stats | Python, scikit-learn, Pandas |
+| [🏥 Healthcare ML Suite](https://github.com/naveen-sama/machine-learning-projects) | Predictive models for diabetes, heart disease, and cancer detection | scikit-learn, Jupyter |
+| [🚀 MLOps Pipeline](https://github.com/naveen-sama/mlops-pipeline) | End-to-end ML pipeline with experiment tracking, model registry, and deployment | MLflow, Docker, FastAPI, AWS |
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenReddy29&theme=github-compact&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen-sama&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
