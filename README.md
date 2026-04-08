@@ -123,7 +123,7 @@ AI/ML Engineer with **6+ years** building production LLM applications, ML pipeli
 | [🤖 LangGraph Research Agent](https://github.com/NaveenReddy29/langgraph-research-agent) | Autonomous multi-step research agent with memory and tool use | LangGraph, OpenAI, Python |
 | [🔍 RAG Document QA System](https://github.com/NaveenReddy29/rag-document-qa) | End-to-end retrieval-augmented generation pipeline for document Q&A | LangChain, ChromaDB, FastAPI |
 | [📈 LLM Time Series Forecaster](https://github.com/NaveenReddy29/llm-time-series-forecaster) | Electricity load forecasting comparing LLM prompting strategies vs classical ML | OpenAI, Prophet, scikit-learn |
-| [⚾ MLB Win Predictor](https://github.com/NaveenReddy29/mlb-win-predictor) | Machine learning model predicting MLB team win probability using player stats | Python, scikit-learn, Pandas |
+| [⚾ MLB Win Predictor](https://github.com/NaveenReddy29/baseball-win-predictor) | Machine learning model predicting MLB team win probability using player stats | Python, scikit-learn, Pandas |
 | [🏥 Healthcare ML Suite](https://github.com/NaveenReddy29/machine-learning-projects) | Predictive models for diabetes, heart disease, and cancer detection | scikit-learn, Jupyter |
 | [🚀 MLOps Pipeline](https://github.com/NaveenReddy29/mlops-pipeline) | End-to-end ML pipeline with experiment tracking, model registry, and deployment | MLflow, Docker, FastAPI, AWS |
 
