@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/naveen-reddy-sama-28a29922a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:naveen.sama29@gmail.com">
+  <a href="mailto:naveensama0797@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://naveen-sama.github.io" target="_blank">
